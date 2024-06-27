@@ -785,7 +785,7 @@
         "kind": 2,
         "importPath": "app.main",
         "description": "app.main",
-        "peekOfCode": "def get_posts():\n    return{\"message\":\"hellow mijan rahaman\"}",
+        "peekOfCode": "def get_posts():\n    return{\"message\":\"hellow mijan rahaman !! How about you!\"}",
         "detail": "app.main",
         "documentation": {}
     },

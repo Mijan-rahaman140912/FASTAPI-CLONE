@@ -32,7 +32,7 @@ app.include_router(vote.router)
 
 @app.get("/")
 def get_posts():
-    return{"message":"hellow mijan rahaman"}
+    return{"message":"hellow mijan rahaman !! How about you!"}
 
 
     
